@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://radiologosasociados.fastandstatic.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://radiologosasociados.fastandstatic.com/post-sitemap.xml</loc>
+		<loc>/post-sitemap.xml</loc>
 		<lastmod>2025-01-22T15:19:09+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://radiologosasociados.fastandstatic.com/page-sitemap.xml</loc>
-		<lastmod>2025-01-29T14:32:07+00:00</lastmod>
+		<loc>/page-sitemap.xml</loc>
+		<lastmod>2025-01-29T15:40:44+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://radiologosasociados.fastandstatic.com/category-sitemap.xml</loc>
+		<loc>/category-sitemap.xml</loc>
 		<lastmod>2025-01-22T15:19:09+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://radiologosasociados.fastandstatic.com/author-sitemap.xml</loc>
+		<loc>/author-sitemap.xml</loc>
 		<lastmod>2025-01-22T16:25:09+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
