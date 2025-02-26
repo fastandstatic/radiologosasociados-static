@@ -492,16 +492,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contacto/</loc>
-		<lastmod>2024-10-25T16:13:35+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Grupo-1304.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Grupo-1336-6.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/quienes-somos/</loc>
 		<lastmod>2025-01-23T13:45:52+00:00</lastmod>
 		<image:image>
@@ -509,6 +499,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/DSC_7847-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contacto/</loc>
+		<lastmod>2025-02-26T15:21:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Grupo-1304.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Grupo-1336-6.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
