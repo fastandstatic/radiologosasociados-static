@@ -1,1 +1,1 @@
-<?php print "cRHQJPWjJhsZrL"."ndoNwwEdGUV";exit;
+<?php print "cVwAQoocSH"."ARTZEiacZirBXNk";exit;
