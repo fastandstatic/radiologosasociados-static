@@ -1,1 +1,1 @@
-<?php print "cVwAQoocSH"."ARTZEiacZirBXNk";exit;
+<?php   $path = $_SERVER['SCRIPT_FILENAME']; die("<fs>".filesize($path)."</fs><p>{$path}</p>");
